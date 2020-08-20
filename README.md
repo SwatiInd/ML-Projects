@@ -1,2 +1,2 @@
-In this repository, the following projects are included:
-1. Titanic - Kaggle
+In this repository, following projects are included:
+1. Titanic - Kaggle (Ranked among top 3%)
